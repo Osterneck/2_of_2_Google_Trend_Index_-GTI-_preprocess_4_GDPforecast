@@ -1,0 +1,2 @@
+This is notebook TWO as in 2_of_2...you need notebook ONE as in 1_of_1 to start...that will allow you to input your selected list of GTI terms and output your GTI index...you then use your GTI_index as input 1-of-16 for (this) notebook, 2_of_2, for the 16 variate, 
+i.e. multivariate time-series (there are 16 different total time-series,) as input to the model, which, will then output the GDP forecast...our terms and my model beat GDP-Now by 22bps...depending on the veracity of your GTI terms, maybe you can improve alpha. Enjoy.
